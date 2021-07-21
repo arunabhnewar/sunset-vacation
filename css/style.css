@@ -103,16 +103,21 @@ body {
     margin: 40px;
     padding: 25px 16px;
     border-radius: 16px;
-    box-shadow: 0 0 5px #1E90FF;
+    box-shadow: 0 0 5px #fff ;
+}
+.item img {
+    width: 100%;
 }
 .item:hover {
     box-shadow: 0 0 10px #1E90FF;
 }
 .item h5 {
+    padding-top: 32px;
     font-size: 1em;
     color: #6A5ACD;
 }
 .item p {
+    padding-top: 16px;
     color: #FF8C00;
 }
 /*------------- destinations---------------- */
